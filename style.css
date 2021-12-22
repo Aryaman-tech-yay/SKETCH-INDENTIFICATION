@@ -17,7 +17,7 @@ h1
 
 canvas
  {
-   border:5px solid green;
+   border:5px solid purple;
    border-radius:22px;
    animation-name: example;
    animation-duration: 5s;
@@ -37,5 +37,5 @@ p
   {
     padding-top:10px;
     font-size:25px;
-    
+    color:yellow;
   }
