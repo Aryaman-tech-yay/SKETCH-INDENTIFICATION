@@ -6,7 +6,7 @@ body
 h1
 {
   
-  color:red;
+  color:yellow;
   background-color:green;
 }
 
@@ -27,8 +27,8 @@ canvas
 }
 @keyframes example {
   
-  from {box-shadow: 1px 1px 38px red;}
-  to {box-shadow: 1px 1px 38px green;}
+  from {box-shadow: 1px 1px 38px blue;}
+  to {box-shadow: 1px 1px 38px pink;}
   
 }
 
